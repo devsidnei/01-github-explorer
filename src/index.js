@@ -1,5 +1,5 @@
-const user = {
-  name: "Sidnei",
-};
+import React from "react";
 
-console.log(user.address.streer);
+function App() {
+  return <h1>Hello World!</h1>;
+}
